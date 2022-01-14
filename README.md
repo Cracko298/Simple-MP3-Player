@@ -1,6 +1,8 @@
 # Simple-MP3-Player
 Play's MP3 Files In The Background of your computer.
 
+Windows defender may see this as a "threat". This is a false positive.
+
 Simple Features:
 
 - Playlist Option(s) (Add up-to 3 songs to play one after eachother).
