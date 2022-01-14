@@ -11,6 +11,10 @@ Simple Features:
 - Type In Your Song Manually Play It. (It gets loaded into the latest song played).
 - Playlist Feature Changes Song Every 261 Seconds. (Or 4 Minutes & 35 Seconds).
 
+Was made by me during computer class to pass the time. 
+
+It's definitely not good at all, but still really cool.
+
 Download Here: [Simple-MP3-Player](https://github.com/Cracko298/Simple-MP3-Player/releases/download/1.0/Simple-MP3-Player.exe)
 
 ![image](https://user-images.githubusercontent.com/78656905/149577682-8c78ae18-b490-41e7-9678-284dcccd7384.png)
